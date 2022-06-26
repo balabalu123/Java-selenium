@@ -8,7 +8,12 @@ import org.openqa.selenium.chrome.ChromeDriver;
 public class ContainsusingAttributes {
 	
 	public void Contains() {
-	System.out.println("contains");
+		System.out.println("contains");
+	}
+	public void Attribute() {
+		System.out.println("Attribute");
+	
+	
 
 	}
 
